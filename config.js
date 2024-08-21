@@ -2,8 +2,8 @@
 
 
 require("./all/module")
-global.owner = "2347089532266" 
-global.namaCreator = "𝖑𝖔𝖗𝖉 𝖈𝖍𝖎𝖇𝖚𝖊𝖟𝖊"
+global.owner = "2348135142432" 
+global.namaCreator = "Control Z ƘÏŁÄØ8"
 global.autoJoin = false 
 global.antilink = false
 global.versisc = '6.𝟏' 
