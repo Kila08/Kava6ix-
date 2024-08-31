@@ -2,7 +2,7 @@
 
 
 require("./all/module")
-global.owner = "2347078621259" 
+global.owner = "2347059217825" 
 global.namaCreator = "Control Z ƘÏŁÄØ8"
 global.autoJoin = false 
 global.antilink = false
